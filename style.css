@@ -1,0 +1,27 @@
+
+*{
+    border: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #7c5eaa;
+} 
+
+.search {
+    margin: 1rem;
+}
+
+.img {
+    width: 10rem;
+}
+
+.myh1 {
+    font-weight: normal;
+    color: whitesmoke;
+}
+
+.search:hover{
+    box-shadow: 3px 7px 8px rgb(133, 129, 129);
+}
